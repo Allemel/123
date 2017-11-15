@@ -1,0 +1,6 @@
+D:\Gitlab\Lab3\3\3\bin\Debug\3.exe.config
+D:\Gitlab\Lab3\3\3\bin\Debug\3.exe
+D:\Gitlab\Lab3\3\3\bin\Debug\3.pdb
+D:\Gitlab\Lab3\3\3\obj\Debug\3.csprojResolveAssemblyReference.cache
+D:\Gitlab\Lab3\3\3\obj\Debug\3.exe
+D:\Gitlab\Lab3\3\3\obj\Debug\3.pdb

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Dynamic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -41,6 +42,8 @@ namespace Lab4
 
             Console.WriteLine("MAX: " + MathObject.Max(set2));
 
+            Console.WriteLine("Date is " + DateTime.Now);
+           
         }
     }
 }
