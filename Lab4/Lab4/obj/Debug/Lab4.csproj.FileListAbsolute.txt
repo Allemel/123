@@ -1,0 +1,6 @@
+D:\Gitlab\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\Gitlab\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\Gitlab\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\Gitlab\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+D:\Gitlab\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\Gitlab\Lab4\Lab4\obj\Debug\Lab4.pdb

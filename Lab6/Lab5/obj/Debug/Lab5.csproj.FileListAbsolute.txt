@@ -1,0 +1,9 @@
+D:\Gitlab\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\Gitlab\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\Gitlab\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\Gitlab\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+D:\Gitlab\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\Gitlab\Lab5\Lab5\obj\Debug\Lab5.pdb
+D:\Gitlab\Lab6\Lab5\bin\Debug\Lab5.exe.config
+D:\Gitlab\Lab6\Lab5\obj\Debug\Lab5.exe
+D:\Gitlab\Lab6\Lab5\obj\Debug\Lab5.pdb
