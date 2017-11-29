@@ -110,6 +110,11 @@ namespace Lab4
             this.name = name;
             this.org = org;
         }
+
+        public override string ToString()
+        {
+            return "Id = " + id + " Name = " + name + " Org = " + org;
+        }
     }
 
     static class MathObject
@@ -130,3 +135,43 @@ namespace Lab4
         }
     }
 }
+
+class CollectionType<T> : ICollection<T> where T : class 
+{
+     private List<T> value = new List<T>();
+
+    public void Add(T t)
+    {
+        if (value.Count > 4)
+            throw new Exception("Too much elements. Max 5");
+        value.Add(t);
+    }
+
+    public void Delete(T t)
+    {
+        value.Remove(t);
+    }
+
+    public string Show()
+    {
+        string result = "";
+        foreach (var item in value)
+        {
+            result += item.ToString();
+            result += '\n';
+        }
+
+        return result;
+    }
+}
+
+
+public interface ICollection<T>
+    where T : class
+{
+    void Add(T t);
+    void Delete(T t);
+    string Show();
+
+}
+
