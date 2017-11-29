@@ -44,6 +44,27 @@ namespace Lab4
 
             Console.WriteLine("Date is " + DateTime.Now);
            
+            //=======================LAB8============================
+
+            try
+            {
+                CollectionType<Owner> cl = new CollectionType<Owner>();
+                cl.Add(new Owner(1, "1name", "1oorg"));
+                Owner own = new Owner(2, "2name", "2oorg");
+                cl.Add(own);
+                Console.WriteLine(cl.Show());
+                cl.Delete(own);
+                Console.WriteLine(cl.Show());   
+                CollectionType<string> s = new CollectionType<string>();
+                s.Add("222");
+                Console.WriteLine(s.Show());
+            
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Exception " + ex);
+            }
+            
         }
     }
 }
