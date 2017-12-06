@@ -31,7 +31,7 @@ namespace lab9
             
             Func<string, string, int, string> op = Process;
             Console.WriteLine(op("qweqweqweqweqweqwe", "ccccc", 10));
-
+  
 
         }
 

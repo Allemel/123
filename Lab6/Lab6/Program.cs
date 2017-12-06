@@ -26,7 +26,7 @@ namespace Lab6
                 Technic ten = new Technic(5, 14, 11.1, "Ten", Technic.Type.Scaner);
                 Technic eleven = new Technic(6, 13, 190, "Eleven", Technic.Type.XRay);
                 Technic twelve = new Technic(9, 12, 189, "Twelve", Technic.Type.Printer);
-                Technic twelv1e = new Technic(0, 0, 0, "", Technic.Type.Printer);
+                Technic twelv1e = new Technic(9, 14, 15, "Fourteen", Technic.Type.Printer);
 
                 Laboratory lab = new Laboratory();
                 lab.Add(one);
